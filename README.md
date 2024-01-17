@@ -2,18 +2,18 @@
  Results-driven Senior Full Stack Developer with over 9 years of extensive experience in **Java** development and proficient integration of Cloud Services such as **AWS** & **GCP**. Renowned for exemplary problem-solving skills and a track record of enhancing customer satisfaction. Seeking opportunities to leverage technical expertise and collaborative skills in a dynamic development environment.
 
 ☕ **Languages**<br/>
-<h6>HTML/CSS, JavaScript, TypeScript, C/C++, Java</h6>
+HTML/CSS, JavaScript, TypeScript, C/C++, Java
 🌐 **Frameworks**<br/>
 jQuery, Ajax, jQuery UI, Bootstrap4/5, ExtJS, Node.js, Express, MERN Stack, MEAN Stack, AngularJS, ReactJS, Spring MVC, Spring Boot
 📜 **Libraries**<br/>
-Maven, Log4j, iBatis, myBatis, JdbcTemplate, Junit, Jest, Storybooks
- 💾 **Databases**<br/>
-SQL, MySQL, PostgreSQL, Oracle, MongoDB
- ☁️ **Cloud Services**<br/>
-AWS, AWS Lambda, GCP, Azure
- 🔨 **Development Methodologies and Tools**<br/>
-Scrum/Agile, Bitbucket, Git, CI/CD, Jira, Docker, Atlassian
- 🖥️ **Integrated Development Environments (IDEs)**<br/>
+Maven, Log4j, iBatis, myBatis, JdbcTemplate, Junit, Jest, Storybooks 
+💾 **Databases**<br/>
+SQL, MySQL, PostgreSQL, Oracle, MongoDB 
+☁️ **Cloud Services**<br/>
+AWS, AWS Lambda, GCP, Azure 
+🔨 **Development Methodologies and Tools**<br/>
+Scrum/Agile, Bitbucket, Git, CI/CD, Jira, Docker, Atlassian 
+🖥️ **Integrated Development Environments (IDEs)**<br/>
 IntelliJ IDEA, Eclipse, NetBeans, VS Code, MyEclipse
 
 📧 vadymmartynenko0@gmail.com
