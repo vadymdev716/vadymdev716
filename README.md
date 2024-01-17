@@ -1,25 +1,25 @@
 ### 👋 Hello everyone! I'm Vadym Martynenko.👋
  Results-driven Senior Full Stack Developer with over 9 years of extensive experience in **Java** development and proficient integration of Cloud Services such as **AWS** & **GCP**. Renowned for exemplary problem-solving skills and a track record of enhancing customer satisfaction. Proven expertise in end-to-end application development using **Spring Boot** and **React.js**, including notable achievements in updating financial auditing systems and crafting admin panels. Adept in a wide range of hard skills including **HTML/CSS**, **JavaScript**, **Java**, **Node.js**, **Spring MVC**, **AWS Lambda**, and more. Demonstrates strong soft skills in **problem-solving**, **project management**, **innovation**, **collaboration**, and **adaptability**. Excels in **Agile/Scrum** methodologies, **CI/CD** processes, and tools such as **Jira** and **Git**. Seeking opportunities to leverage technical expertise and collaborative skills in a dynamic development environment.
 
-<h4>☕ **Languages**</h4>
+<span>☕ **Languages**</span>
 HTML/CSS, JavaScript, TypeScript, C/C++, Java
 
-<h4>🌐 **Frameworks**</h4>
+<span>🌐 **Frameworks**</span>
 jQuery, Ajax, jQuery UI, Bootstrap4/5, ExtJS, Node.js, Express, MERN Stack, MEAN Stack, AngularJS, ReactJS, Spring MVC, Spring Boot
 
-<h4>📜 **Libraries**</h4>
+<span>📜 **Libraries**</span>
  Maven, Log4j, iBatis, myBatis, JdbcTemplate, Junit, Jest, Storybooks
  
-<h4>💾 **Databases**</h4>
+<span>💾 **Databases**</span>
  SQL, MySQL, PostgreSQL, Oracle, MongoDB
  
-<h4>☁️ **Cloud Services**</h4>
+<span>☁️ **Cloud Services**</span>
  AWS, AWS Lambda, GCP, Azure
  
-<h4>🔨 **Development Methodologies and Tools**</h4>
+<span>🔨 **Development Methodologies and Tools**</span>
  Scrum/Agile, Bitbucket, Git, CI/CD, Jira, Docker, Atlassian
  
-<h4>🖥️ **Integrated Development Environments (IDEs)**</h4>
+<span>🖥️ **Integrated Development Environments (IDEs)**</span>
  IntelliJ IDEA, Eclipse, NetBeans, VS Code, MyEclipse
 
 <h6>
